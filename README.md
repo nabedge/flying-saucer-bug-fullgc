@@ -1,3 +1,8 @@
+# RESOLVED
+
+This bug is fixed on flying-saucer-pdf 9.1.7 or later
+see https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!topic/flying-saucer-users/0b98p88ZxQc
+
 # flying-saucer-bug-fullgc
 
 1. git clone [this repository]

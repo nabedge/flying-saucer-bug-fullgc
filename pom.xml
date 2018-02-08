@@ -19,8 +19,10 @@
         <dependency>
             <groupId>org.xhtmlrenderer</groupId>
             <artifactId>flying-saucer-pdf</artifactId>
-            <version>9.1.5</version><!-- bad ! -->
             <!-- <version>9.0.7</version>--> <!-- going to good ! -->
+            <!-- <version>9.1.5</version>--> <!-- bad ! -->
+            <version>9.1.11</version><!-- GOOD ! -->
+            <!-- fixed on 9.1.7 see https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!topic/flying-saucer-users/0b98p88ZxQc -->
         </dependency>
 
         <dependency>
